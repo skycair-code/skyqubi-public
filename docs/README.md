@@ -1,6 +1,6 @@
 # S7 SkyQUB*i*
 
-Sovereign offline AI platform. No cloud. No subscription. No surveillance. Runs on hardware you own.
+Evolve2Linux with S7 — YOUR AI not their Agenda. No cloud. No subscription. No surveillance. Runs on hardware you own.
 
 **Live site:** [skyqubi.com](https://skyqubi.com)
 **Public launch:** **July 7, 2026 · 7:00 AM Central (GO-LIVE Release 7)**
@@ -122,7 +122,7 @@ On any S7-provisioned machine, the following apps live in the **S7 SkyQUB*i*** B
 | **QUB*i* - Oz of Knowledge** | Offline RAG knowledge library |
 | **Tri-Force Academy** | Education, training, certification |
 | **QUB*i* Local Maps** | Offline maps for your local region |
-| **Jellyfin** | Sovereign offline media server |
+| **Jellyfin** | Offline media server |
 | **Services** | Start/stop/restart S7 services |
 | **Vector DB** | Qdrant dashboard |
 | **Terminal** | Wezterm with S7 sandy-sunset theme |
