@@ -55,7 +55,7 @@
 
 ## The Architecture
 
-SkyQUB*i* is a complete sovereign AI stack that runs **entirely offline** on commodity hardware. No cloud. No subscriptions. No data leaves your machine.
+SkyQUB*i* is a complete offline-first AI stack that runs **entirely offline** on commodity hardware. No cloud. No subscriptions. No data leaves your machine.
 
 ```
   +1 REST    MemPalace — long-term shared memory (sentience unity)
@@ -134,9 +134,9 @@ Query → MemPalace Recall → Parallel Witnesses → CWS Consensus → Molecula
 
 ---
 
-## Sovereign Distribution
+## S7 Distribution
 
-S7 SkyQUB*i* does **not** distribute via external container registries (no ghcr.io, no Docker Hub). Sovereignty starts at the supply chain.
+S7 SkyQUB*i* does **not** distribute via external container registries (no ghcr.io, no Docker Hub). Supply-chain integrity starts at the source.
 
 Build a local OCI image:
 
